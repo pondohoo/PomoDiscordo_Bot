@@ -1,5 +1,5 @@
 # PomoDiscordo_Bot
-Project for CutieHack 2022
+### Project for CutieHack 2022
 <img width="516" alt="Screen Shot 2022-11-05 at 20 53 08" src="https://user-images.githubusercontent.com/90938120/200153533-af484aad-03db-4228-a735-da05154844a6.png">
 <img width="600" alt="Screen Shot 2022-11-05 at 20 53 59" src="https://user-images.githubusercontent.com/90938120/200153526-6484cebb-dddf-45f9-a728-e03663174d3e.png">
 <img width="566" alt="Screen Shot 2022-11-05 at 20 53 45" src="https://user-images.githubusercontent.com/90938120/200153529-fd2ef3e5-2ab2-4171-8b84-94dc76085e5e.png">
