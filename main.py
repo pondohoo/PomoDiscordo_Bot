@@ -10,7 +10,7 @@ class Timer:
     self.hour = 0
     self.minute = 0
     self.second = 0
-
+    
 
 
 intents = discord.Intents.default()
