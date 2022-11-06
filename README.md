@@ -1,5 +1,14 @@
 # PomoDiscordo_Bot
 Project for CutieHack 2022
+<img width="516" alt="Screen Shot 2022-11-05 at 20 53 08" src="https://user-images.githubusercontent.com/90938120/200153533-af484aad-03db-4228-a735-da05154844a6.png">
+<img width="600" alt="Screen Shot 2022-11-05 at 20 53 59" src="https://user-images.githubusercontent.com/90938120/200153526-6484cebb-dddf-45f9-a728-e03663174d3e.png">
+<img width="566" alt="Screen Shot 2022-11-05 at 20 53 45" src="https://user-images.githubusercontent.com/90938120/200153529-fd2ef3e5-2ab2-4171-8b84-94dc76085e5e.png">
+<img width="597" alt="Screen Shot 2022-11-05 at 20 53 38" src="https://user-images.githubusercontent.com/90938120/200153530-d9c577fe-0948-49d3-b4be-b3cb2e826e8e.png">
+<img width="496" alt="Screen Shot 2022-11-05 at 20 53 26" src="https://user-images.githubusercontent.com/90938120/200153531-ec46677c-4947-4183-bb61-8e55bbccbaf8.png">
+<img width="564" alt="Screen Shot 2022-11-05 at 20 53 19" src="https://user-images.githubusercontent.com/90938120/200153532-142816bf-1446-485e-92b0-8bb17b29727c.png">
+
+
+
 ## Inspiration
 As college students we like to procrastinate and put things to the last minute. Recent midterms has made this fact clear for many of us. PomoDiscordo is an enjoyable way to keep up on your work and study with friends through Discord.
 
