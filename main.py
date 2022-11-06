@@ -4,6 +4,15 @@ from discord.ext import commands
 import os
 import asyncio
 
+
+class Timer:
+  def __init__(self, hour, minute, second):
+    self.hour = 0
+    self.minute = 0
+    self.second = 0
+
+
+
 intents = discord.Intents.default()
 intents.members = True
 intents.message_content = True
